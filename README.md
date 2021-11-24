@@ -1,3 +1,3 @@
 # Eyes
-## Exercise on eyes
-<img src= "oneeye.png" width='300'/>
+This is a program with two big eyes which follow the cursor.
+<img src= "twoEyes.png" width='300'/>
