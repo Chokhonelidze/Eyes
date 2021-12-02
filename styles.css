@@ -1,4 +1,9 @@
+@font-face {
+  font-family: "YujiMai";
+  src: url(YujiMai-Regular.ttf);
+}
 body {
+  font-family:'YujiMai';
   margin: 0;
   padding: 0;
   background: #14495e;
